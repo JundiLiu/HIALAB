@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: "ocean"
+  theme_night: "dark"
   font: native
   font_size: L
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Iowa State University'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -68,7 +68,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

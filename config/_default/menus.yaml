@@ -4,21 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: HIA Lab
+    url: lab
     weight: 10
   - name: News
     url: post
-    weight: 20
+    weight: 50
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Teaching
+    url: teaching
     weight: 40
   - name: Publications
     url: publication
-    weight: 50
-  - name: Contact
+    weight: 20
+  - name: Get Involved
     url: contact
+    weight: 70
+  - name: Projects
+    url: projects
     weight: 60
