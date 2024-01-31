@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-My first paper as a corresponding author was accepted for presentation at Transportation Review Board (TRB) annual conference 2024.
+My first paper as a corresponding author was accepted for presentation at Transportation Research Board (TRB) annual meeting 2024.
 
 <!--more-->
 
