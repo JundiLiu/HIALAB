@@ -17,7 +17,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Assistant Professor in IMSE at ISU. My research interests include Interactive Reinforcement Learning, Human Factors, Human-vehicle Interaction and Human-robot Interaction.
+bio: I'm an Assistant Professor in IMSE and HCI at ISU. My research interests include Interactive Reinforcement Learning, Human Factors, Human-vehicle Interaction and Human-robot Interaction.
 
 interests:
   - Human Factors
