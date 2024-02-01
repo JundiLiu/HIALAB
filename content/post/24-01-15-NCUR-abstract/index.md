@@ -1,5 +1,5 @@
 ---
-title: Our paper on predicting drivers' takeover performance was accepted at TRB 2024
+title: Our research is accepted for poster presentation at NCUR 2024.
 date: 2023-10-15
 image:
   focal_point: 'top'
