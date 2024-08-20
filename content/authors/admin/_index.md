@@ -17,10 +17,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Assistant Professor in IMSE and HCI at ISU. My research interests include Interactive Reinforcement Learning, Human Factors, Human-vehicle Interaction and Human-robot Interaction.
+bio: I'm an Assistant Professor in IMSE and HCI at ISU. My research interests include Interactive Reinforcement Learning, Human Behavior Modeling, Human-vehicle Interaction and Human-robot Interaction.
 
 interests:
-  - Human Factors
+  - Human Behavior Modeling
   - Human-vehicle Interaction
   - Human-robot Interaction
   - Interactive Reinforcement Learning
@@ -72,7 +72,7 @@ user_groups:
   - Lab Director
 ---
 
-I am an Assistant Professor in Industrial and Manufacturing Systems Engineering Department and affiliated with Human-Computer Interaction Program at Iowa State University. Prior to this position, I was a postdoc working with [Prof. Xi Jessie Yang](https://ioe.engin.umich.edu/people/yang-xi-jessie/) in IOE at the University of Michigan. I used to be a Strategic Research Intern at [Honda Research Institute (HRI)](https://usa.honda-ri.com/). I obtained my Ph.D. and M.S. in Industrial Engineering from the University of Washington working with [Prof. Linda Boyle](https://engineering.nyu.edu/faculty/linda-ng-boyle) and [Prof. Ashis Banerjee](https://www.me.washington.edu/facultyfinder/ashis-banerjee).
+I am an Assistant Professor in Industrial and Manufacturing Systems Engineering and Human-Computer Interaction at Iowa State University. Prior to this position, I was a postdoc working with [Prof. Xi Jessie Yang](https://ioe.engin.umich.edu/people/yang-xi-jessie/) in IOE at the University of Michigan. I used to be a Strategic Research Intern at [Honda Research Institute (HRI)](https://usa.honda-ri.com/). I obtained my Ph.D. and M.S. in Industrial and Systems Engineering from the University of Washington, working with [Prof. Linda Boyle](https://engineering.nyu.edu/faculty/linda-ng-boyle) and [Prof. Ashis Banerjee](https://www.me.washington.edu/facultyfinder/ashis-banerjee).
 
 My current research focuses on Interactive Reinforcement Learning, Human Factors with applications to customized vehicle automation and human-robot interaction, and developing algorithms and frameworks for trust-aware adaptive systems.
 
