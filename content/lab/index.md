@@ -6,7 +6,7 @@ sections:
   - block: markdown
     content:
       title: 👋 Welcome to the HIA Lab
-      subtitle: 
+      subtitle:  
       text: "Human-centered Interactive Autonomy (HIA) Lab leverages Human Factors research techniques,  human-in-the-loop reinforcement learning and trustworthy machine learning algorithms to design human-centered and trust-aware customized autonomy. We aim to answer two fundamental questions:
       
       1. **Can we model human cognition and behavior formally and holistically?**  
@@ -47,7 +47,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: driving_sim.png
+              filename: driving_sim.jpg
               filters:
                 brightness: 0.7
             position: center
