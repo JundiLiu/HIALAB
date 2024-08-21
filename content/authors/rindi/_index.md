@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Abigail Bolt
+title: Rindirisia Wangira
 
 # Full name (for SEO)
-first_name: Abigail
-last_name: Bolt
+first_name: Rindirisia
+last_name: Wangira
 
 # Username (this should match the folder name)
 authors:
-  - abbey
+  - rindi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: B.S. in IE -> Collins Aerospace
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: B.S. IMSE@ISU
+  - name: IMSE@ISU
     url: ''
 
 # # Short bio (displayed in user profile at end of posts)
@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergraduate Students
 ---
 <!-- 
 test -->

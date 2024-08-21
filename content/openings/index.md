@@ -10,9 +10,9 @@ sections:
       title: 
       subtitle: 
       text: "
-      ## Perspective Ph.D. Students
+      ## Prospective Ph.D. Students
 
-      > I am actively looking for students with strong interests and background in working at the intersections of Human Factors and Artificial Intelligence. If you have a background in psychology (engineering psychology/ cognitive modeling/ etc.) and engineering (Industrial Engineering / Electrical Engineering & Computer Science / Mechanical Engineering / Civil Engineering/ etc.), please consider apply to the [Ph.D. program in IMSE or HCI at ISU](https://www.imse.iastate.edu/graduate-program/). In particular, we recommend you select *Human Factors and Ergonomics* or *Human-computer Interaction* as your area of interest and mention Prof. Jundi Liu in your statement.
+      > I am actively looking for students with strong interests and backgrounds in working at the intersections of Human Factors and Artificial Intelligence. If you have a background in psychology (engineering psychology/ cognitive modeling/ etc.) and engineering (Industrial Engineering / Electrical Engineering & Computer Science / Mechanical Engineering / Civil Engineering/ etc.), please consider applying to the [Ph.D. program in IMSE or HCI at ISU](https://www.imse.iastate.edu/graduate-program/). In particular, we recommend you select *Human Factors and Ergonomics* or *Human-computer Interaction* as your area of interest and mention Prof. Jundi Liu in your statement.
       
       ## Master/Undergraduate Students
 

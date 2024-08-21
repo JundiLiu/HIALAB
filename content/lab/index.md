@@ -35,7 +35,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: VR_apparatus.jpg
+              filename: VR.jpg
               filters:
                 brightness: 0.7
             position: center

@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Abigail Bolt
+title: Thomas Lenz
 
 # Full name (for SEO)
-first_name: Abigail
-last_name: Bolt
+first_name: Thomas
+last_name: Lenz
 
 # Username (this should match the folder name)
 authors:
-  - abbey
+  - tommy
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: B.S. in IE -> Collins Aerospace
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-  - name: B.S. IMSE@ISU
+  - name: IMSE@ISU
     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
@@ -29,29 +29,29 @@ organizations:
 #   - Computational Linguistics
 #   - Information Retrieval
 
-# education:
-#   courses:
-#     - course: BSc in Industrial Engineering
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: BSc in Industrial Engineering, minor in Computer Science
+      institution: University of Minnesota Twin Cities
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:test@example.org'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Ph.D. Students
 ---
-<!-- 
-test -->
+
+<!-- test -->

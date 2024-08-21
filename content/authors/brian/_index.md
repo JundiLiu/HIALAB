@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: B.S. in CS
 
 # Organizations/Affiliations
 organizations:
-  - name: CS@ISU
+  - name: B.S. CS@ISU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 <!-- test -->
