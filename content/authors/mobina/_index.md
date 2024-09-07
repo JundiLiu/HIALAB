@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mobina Amrollahiboyouki
+title: Mobina Amrollahi
 
 # Full name (for SEO)
 first_name: Mobina
-last_name: Amrollahiboyouki
+last_name: Amrollahi
 
 # Username (this should match the folder name)
 authors:
