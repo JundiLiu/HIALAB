@@ -6,14 +6,18 @@ title: Thomas Lenz
 first_name: Thomas 
 last_name: Lenz
 
+# Username (this should match the folder name)
+authors:
+  - tommy
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph.D. student
 # Organizations/Affiliations
 organizations:
-  - name: Iowa State University
+  - name: IMSE@ISU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,8 +65,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#  - Lab Director
+user_groups:
+  - Ph.D. Students
 ---
 
 I am a PhD student and research assistant in the Human Factors program in Industrial and Manufacturing Systems Engineering at Iowa State University. I attained my BISyE in Industrial and Systems Engineering at the University of Minnesota-Twin Cities, with a minor in Computer Science. I worked as an undergraduate research assistant at the [Human Factors Safety Laboratory](https://hfsl.umn.edu/) under the direction of [Prof. Nichole Morris](https://cse.umn.edu/me/nichole-morris).
