@@ -21,28 +21,29 @@ organizations:
   - name: IMSE@ISU
     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (displayed in user profile at end of posts)
+bio: I'm an Undergraduate Research Assistant at the HIA Lab at ISU. My research interests include automation of engineering systems and human-robot interaction.
+
 
 # interests:
 #   - Artificial Intelligence
 #   - Computational Linguistics
 #   - Information Retrieval
 
-# education:
-#   courses:
-#     - course: BSc in Industrial Engineering
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+education:
+  courses:
+    - course: BS Industrial Engineering, minor Data Science
+      institution: Iowa State University
+      year: Expected May 2027
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'rwangira@iastate.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
