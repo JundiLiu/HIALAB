@@ -22,12 +22,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a third-year PhD student in Computer Science and Industrial Engineering at Iowa State University. My research focuses on modeling human behavior through implicit and explicit feedback in interactions with autonomous agents. Another line of my work examines the relationship between humans’ objective behaviors and their subjective preferences when engaging with such agents. 
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+- Human-Robot interaction
+- Machine Learning
 
 education:
   courses:
@@ -46,12 +45,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=urbeAtIAAAAJ&view_op=list_works&gmla=AH8HC4zJ7xy5FMHyDjaZwQKW0RndcLq-vrT9dO8BCk9fhtXj3v0__1l99PVJftKIM9v7zbAkzBDt0Ep4Vt5zLBfA
+  - icon: github
+    icon_pack: fab
+    link: https://mobinaamrollahi.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mobinaa@iastate.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

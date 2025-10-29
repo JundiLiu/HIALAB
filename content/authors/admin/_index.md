@@ -72,7 +72,7 @@ user_groups:
   - Lab Director
 ---
 
-I am an Assistant Professor in Industrial and Manufacturing Systems Engineering and Human-Computer Interaction at Iowa State University. Prior to this position, I was a postdoc working with [Prof. Xi Jessie Yang](https://ioe.engin.umich.edu/people/yang-xi-jessie/) in IOE at the University of Michigan. I used to be a Strategic Research Intern at [Honda Research Institute (HRI)](https://usa.honda-ri.com/). I obtained my Ph.D. and M.S. in Industrial and Systems Engineering from the University of Washington, working with [Prof. Linda Boyle](https://engineering.nyu.edu/faculty/linda-ng-boyle) and [Prof. Ashis Banerjee](https://www.me.washington.edu/facultyfinder/ashis-banerjee).
+I am an Assistant Professor in Industrial and Manufacturing Systems Engineering and Human-Computer Interaction at Iowa State University. Prior to this position, I was a postdoc in Industrial and Operations Engineering at the University of Michigan. I obtained my Ph.D. and M.S. in Industrial and Systems Engineering from the University of Washington, and my B.S. in Computer Science and Engineering from Shanghai Jiao Tong University.
 
 My current research focuses on Interactive Reinforcement Learning, Human Factors with applications to customized vehicle automation and human-robot interaction, and developing algorithms and frameworks for trust-aware adaptive systems.
 
