@@ -29,7 +29,7 @@ sections:
     content:
       slides:
         - title: Virtual Reality Apparatus
-          content: for Human-Robot Interaction Research
+          content: for Human Subject Study an Immersive Design
           align: left
           background:
             image:
@@ -48,6 +48,18 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: driving_sim.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title: Human-Robot Interaction
+          content: for Mutual Learning and Teaming under Social Interaction
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: HRI.jpg
               filters:
                 brightness: 0.7
             position: center

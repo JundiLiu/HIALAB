@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Students
+role: Master in HCI
 
 # Organizations/Affiliations
 organizations:
