@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Master in IE
 # Organizations/Affiliations
 organizations:
   - name: IMSE@ISU
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Alumni
 ---
 
 I am a Master's student in Industrial Engineering at Iowa State University. I completed my BS with this department fall 2024 as a concurrent student and am now a full time Master's student. I worked as an undergraduate research assistant in our department as an undergrad under Dr. Sigurdur Olafsson and his PH.D student Gaurav Arwade.

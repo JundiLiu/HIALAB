@@ -21,7 +21,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Human Factors PhD student in IMSE at Iowa State University. I'm interested in human-agent teaming, the role of social norms and cognition on human-automation interaction, and transportation applications.
+bio: I'm a Human Factors PhD student in IMSE at Iowa State University. I'm interested in human cognition, how it can be aided through prudent design, and applications in transportation. I'm also interested in how AI and other automation can be made to better fit human needs and expectations. 
+
 
 interests:
   - Human-robot interaction
@@ -73,5 +74,5 @@ I am a PhD student and research assistant in the Human Factors program in Indust
 
 My research interests include human-agent teaming, the role of social norms and cognition on human-automation interaction, and applying human factors knowledge to transportation.
 
-I am interested in leveraging knowledge about human abilities and limitations and techniques from engineering and computer science to build technology and environments that suit the people who use them. Particularly, I am interested in how to measure hidden cognitive features like trust and mental models and how to apply this knowledge to adapt automation for the user.
+I am interested in leveraging knowledge about human abilities and limitations and techniques from engineering and computer science to build technology and environments that suit the people who use them. Particularly, I am interested in how to measure hidden cognitive features like situation awareness, attention, and trust and how to apply this knowledge to adapt automation for the user.
 
